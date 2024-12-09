@@ -2,6 +2,8 @@
 
 This is a collection of links to various resources I've created for my different coding courses.
 
+YouTube Channel: [@ProfTimEMCC](https://www.youtube.com/@ProfTimEMCC)
+
 # THIS CONTENT IS COMING SOON!
 
 
