@@ -1,6 +1,6 @@
 # Tim's Coding Resources
 
-This is a collection of links to various resources I've created for my different coding courses.
+This is a collection of links to various resources resources related to my courses, videos, and written content. 
 
 YouTube Channel: [@ProfTimEMCC](https://www.youtube.com/@ProfTimEMCC)
 
