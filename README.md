@@ -4,7 +4,15 @@ This is a collection of links to various resources I've created for my different
 
 YouTube Channel: [@ProfTimEMCC](https://www.youtube.com/@ProfTimEMCC)
 
-# THIS CONTENT IS COMING SOON!
+GitHub Profile: [https://github.com/timmcmichael](https://github.com/timmcmichael)
+
+Demo Files:
+* Google Drive: [https://bit.ly/ProfTimEMCCFiles](https://bit.ly/ProfTimEMCCFiles)
+* GitHub: [https://github.com/timmcmichael/EMCCTimFiles](https://github.com/timmcmichael/EMCCTimFiles)
+
+_Note: Files are generally posted in Canvas as well_.
+
+# COURSE-SPECFIC CONTENT IS COMING SOON!
 
 
 
