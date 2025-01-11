@@ -13,7 +13,7 @@ _Note: Files are generally posted in Canvas as well_.
 
 
 ## CIS150AB - Object-Oriented Programming Fundamentals (in Java)
-eBook: [Skimpy OOP: Introduction to Object-Oriented Programming using Java](http://timmcmichael.github.io/skimpy-oop/)
+- eBook: [Skimpy OOP: Introduction to Object-Oriented Programming using Java](http://timmcmichael.github.io/skimpy-oop/)
 
 - Youtube playlist: [Object Oriented Programming Fundamentals](https://www.youtube.com/playlist?list=PL_Lc2HVYD16Y-vLXkIgggjYrSdF5DEFnU)
 
