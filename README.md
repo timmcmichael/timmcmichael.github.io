@@ -17,7 +17,7 @@ _Note: Files are generally posted in Canvas as well_.
 
 - Youtube playlist: [Object Oriented Programming Fundamentals](https://www.youtube.com/playlist?list=PL_Lc2HVYD16Y-vLXkIgggjYrSdF5DEFnU)
 
-- [Source files for videos and eBook](https://github.com/timmcmichael/EMCCTimFiles)
+- [Source files for videos and eBook](https://github.com/timmcmichael/EMCCTimFiles/tree/main/OOP%20with%20Java%20(CIS150AB))
 
 
 ## CIS156 - Python Programming: Level I
@@ -26,14 +26,14 @@ _Note: Files are generally posted in Canvas as well_.
 - Youtube playlist: [CIS156](https://www.youtube.com/playlist?list=PL7yAQImwCColDsNdnMgjxG3VBZHo-Yj2g)
 
 - Source files for videos and eBook: linked in Canvas (for now)
- <!-- 
+
 ## CIS162AD - C# Programming: Level I
-- Textbook
+- Textbook: In progress
 
-- Youtube playlist
+- Youtube playlist: In progress
 
-- Source files for videos
-  -->
+- [Source files for videos](https://github.com/timmcmichael/EMCCTimFiles/tree/main/Intro%20to%20C-Sharp%20(CIS162AD))
+
 ## CIS256 - Python: Level II
 - Textbook: N/A
 
