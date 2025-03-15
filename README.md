@@ -1,4 +1,4 @@
-# Tim's Coding Resources
+# Tim's Coding Content and Resources
 
 This is a collection of links to various resources resources related to my courses, videos, and written content. 
 
