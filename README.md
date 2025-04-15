@@ -19,6 +19,7 @@ _Note: Files are generally posted in Canvas as well_.
 <a href="https://timmcmichael.github.io/skimpy-oop">
   <img src="Skimpy_OOP_Cover.png" alt="Skimpy OOP eBook cover" width="200"/>
 </a>
+
 - eBook: [Skimpy OOP: Introduction to Object-Oriented Programming Using Java](http://timmcmichael.github.io/skimpy-oop/)
 
 - Youtube playlist: [Object Oriented Programming Fundamentals](https://www.youtube.com/playlist?list=PL_Lc2HVYD16Y-vLXkIgggjYrSdF5DEFnU)
@@ -37,6 +38,7 @@ _Note: Files are generally posted in Canvas as well_.
 <a href="https://timmcmichael.github.io/skimpy-csharp">
   <img src="Skimpy_CSharp_Cover.png" alt="Skimpy C# eBook cover" width="200"/>
 </a>
+
 - eBook: [Skimpy C#: An Introduction to Programming](http://timmcmichael.github.io/skimpy-csharp/)
 
 - Youtube playlist: [Introduction to C#](https://www.youtube.com/playlist?list=PL_Lc2HVYD16ZaC1Qy_VcOHCNzT1y8hHJP)
