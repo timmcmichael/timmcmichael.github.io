@@ -36,7 +36,7 @@ _Note: Files are generally posted in Canvas as well_.
 
 ## CIS162AD - C# Programming: Level I
 <a href="https://timmcmichael.github.io/skimpy-csharp">
-  <img src="[Skimpy_CSharp_Cover.png](https://timmcmichael.github.io/lofi-csharp/images/LoFi_CSharp_Cover.png)" alt="Skimpy C# eBook cover" width="200"/>
+  <img src="https://timmcmichael.github.io/lofi-csharp/images/LoFi_CSharp_Cover.png" alt="Skimpy C# eBook cover" width="200"/>
 </a>
 
 - eBook: [Skimpy C#: An Introduction to Programming](http://timmcmichael.github.io/skimpy-csharp/)
