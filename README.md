@@ -39,7 +39,7 @@ _Note: Files are generally posted in Canvas as well_.
   <img src="https://timmcmichael.github.io/lofi-csharp/images/LoFi_CSharp_Cover.png" alt="Lo-Fi C# eBook cover" width="200"/>
 </a>
 
-- eBook: [Lo-Fi C#: An Introduction to Programming](http://timmcmichael.github.io/skimpy-csharp/)
+- eBook: [Lo-Fi C#: An Introduction to Programming](http://timmcmichael.github.io/lofi-csharp/)
 
 - Youtube playlist: [Introduction to C#](https://www.youtube.com/playlist?list=PL_Lc2HVYD16ZaC1Qy_VcOHCNzT1y8hHJP)
 
