@@ -17,10 +17,10 @@ _Note: Files are generally posted in Canvas as well_.
 <!-- ![Skimpy OOP eBook cover](Skimpy_OOP_Cover.png) -->
 
 <a href="https://timmcmichael.github.io/skimpy-oop">
-  <img src="https://timmcmichael.github.io/skimpy-oop/images/Skimpy_OOP_Cover2.png" alt="Skimpy OOP eBook cover" width="200"/>
+  <img src="https://timmcmichael.github.io/lofi/images/LoFi_OOP_Cover.png" alt="Lo-Fi OOP eBook cover" width="200"/>
 </a>
 
-- eBook: [Skimpy OOP: Introduction to Object-Oriented Programming Using Java](http://timmcmichael.github.io/skimpy-oop/)
+- eBook: [Lo-Fi OOP: Intro to Object-Oriented Programming Using Java](http://timmcmichael.github.io/lofi-oop/)
 
 - Youtube playlist: [Object Oriented Programming Fundamentals](https://www.youtube.com/playlist?list=PL_Lc2HVYD16Y-vLXkIgggjYrSdF5DEFnU)
 
