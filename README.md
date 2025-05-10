@@ -17,7 +17,7 @@ _Note: Files are generally posted in Canvas as well_.
 <!-- ![Skimpy OOP eBook cover](Skimpy_OOP_Cover.png) -->
 
 <a href="https://timmcmichael.github.io/skimpy-oop">
-  <img src="https://timmcmichael.github.io/lofi/images/LoFi_OOP_Cover.png" alt="Lo-Fi OOP eBook cover" width="200"/>
+  <img src="https://timmcmichael.github.io/lofi-oop/images/LoFi_OOP_Cover.png" alt="Lo-Fi OOP eBook cover" width="200"/>
 </a>
 
 - eBook: [Lo-Fi OOP: Intro to Object-Oriented Programming Using Java](http://timmcmichael.github.io/lofi-oop/)
